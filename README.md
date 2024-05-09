@@ -36,6 +36,6 @@ This package provides a way to have a precise interval timer for Node.js which i
     timer2.start()
 
     <!-- To stop the timer -->
-    timer2.stop()
+    timer2.stop() 
 
 
