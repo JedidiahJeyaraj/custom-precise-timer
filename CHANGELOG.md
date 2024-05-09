@@ -1,5 +1,11 @@
 # custom-precise-timer
 
+## 0.0.6
+
+### Patch Changes
+
+- Adding github link
+
 ## 0.0.5
 
 ### Patch Changes
